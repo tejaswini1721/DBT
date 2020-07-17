@@ -1,0 +1,31 @@
+Assignment No. 2
+
+
+1) Which field of customer table is primary key ?
+Ans.  CNUM is primary key of the table customer .
+
+2) What is the fourth column of the customer table ?
+Ans. RATING is the fourth column of the customer table .
+
+3) What is the another word for row and column ?
+Ans. Another word for Row is Tuple , Entity , Apportunity
+        Another word for Column is Method , Attribute 
+
+4) Why is not it possible to see the first five rows of a table ?
+Ans. 1)When you update a row if the row length is increasing then the entire row may be moved on some other address.
+        2)later when you select from the table you will find the row at some other position in the output.
+        3)its only in the case of VARCHAR that the row length may increse or decrese.
+          Hence, its not possible to view the first or last N rows of a table.
+
+*****************************************************************
+
+
+Assignment No. 3
+
+
+1) Does ANSI  recognize the data type DATE ?
+Ans.  YES , ANSI  recognize the data type DATE .
+
+2) Which subdivision of SQL is used to insert values in table ?
+
+Ans.To insert data into table you can use normal INSERT command.
